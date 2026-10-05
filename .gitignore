@@ -1,0 +1,6 @@
+venv/
+.env
+data/raw/
+data/processed/
+*.pbix
+.ipynb_checkpoints/
